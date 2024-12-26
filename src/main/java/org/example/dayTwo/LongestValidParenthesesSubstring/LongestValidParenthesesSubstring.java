@@ -1,4 +1,4 @@
-package org.example.dayTwo.LongestValidParenthesesSubtring;
+package org.example.dayTwo.LongestValidParenthesesSubstring;
 
 import java.util.Stack;
 
