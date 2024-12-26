@@ -13,6 +13,6 @@
 
 ## Dry Code
 
-|                                                                                            |  |
-|--------------------------------------------------------------------------------------------| ------ |
-| ![img_1.png](src/main/java/org/example/dayTwo/LongestValidParenthesesSubstring/img_01.jpg) | ![img_1.png](src/main/java/org/example/dayTwo/LongestValidParenthesesSubstring/img_02.jpg)    |
+|                                                                                             |                                                                                             |
+|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| ![img_01.png](src/main/java/org/example/dayTwo/LongestValidParenthesesSubstring/img_01.jpg) | ![img_02.png](src/main/java/org/example/dayTwo/LongestValidParenthesesSubstring/img_02.jpg) |
